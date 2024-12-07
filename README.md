@@ -1,2 +1,2 @@
 # inzynierka
-Pliki źródłowe związane z projektem dyplomowym 
+Pliki związane z projektem dyplomowym 
